@@ -1,5 +1,38 @@
 # wordpress
 
+<h1>by using docker-compose.yaml file you can create a wordpress setup using PhpMyAdmin and MySql </h1>
+
+for compose run the cmd
+//sudo docker-compose up -d 
+and access it from 
+http://localhost:8001  #wordpress
+http://localhost:8080 #phpmyadmin
+
+
+![Screenshot from 2023-09-29 17-22-46](https://github.com/ravi11112/wordpress/assets/105406469/6a54119f-7e45-4bdc-91b0-b82a0dd2eafb)
+
+
+
+![Screenshot from 2023-09-29 17-28-41](https://github.com/ravi11112/wordpress/assets/105406469/a637a861-2020-4c40-845d-55950c1b5e17)
+
+
+
+
+
+![Screenshot from 2023-09-29 17-32-30](https://github.com/ravi11112/wordpress/assets/105406469/9df5e160-655b-4e3b-891b-6877aa38ffd2)
+
+
+
+![Screenshot from 2023-09-29 17-32-52](https://github.com/ravi11112/wordpress/assets/105406469/0cdc370f-fad0-4b30-8930-098cc10852c3)
+
+
+
+![Screenshot from 2023-09-29 17-34-51](https://github.com/ravi11112/wordpress/assets/105406469/97e53558-8ca9-4370-8b1f-4c40100229df)
+
+
+
+
+
 
 <h1>by using this Dockerfile create its image </h1>
 
