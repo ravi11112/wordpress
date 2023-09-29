@@ -9,6 +9,7 @@ for compose run the cmd
 and access it from 
 
 http://localhost:8001  #wordpress
+
 http://localhost:8080 #phpmyadmin
 
 
