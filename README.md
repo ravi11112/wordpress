@@ -1,7 +1,7 @@
 # wordpress
 
 
-#by using this Dockerfile create its image
+<h1>by using this Dockerfile create its image </h1>
 
 //sudo docker build -t wordpress .
 
@@ -27,7 +27,7 @@ for this login in dockerhub
 
 
 
-#now create the instance using terraform script
+<h1>now create the instance using terraform script</h1>
 
 //terraform init
 
