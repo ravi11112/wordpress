@@ -2,7 +2,9 @@
 
 
 by using this Dockerfile create its image
+
 //sudo docker build -t wordpress .
+
 
 then create a container and expose port 80 
 
@@ -15,9 +17,10 @@ after creating this now push image on dockerhub
 for this login in dockerhub
 
 //docker login
-add tag to the image  
-#sudo docker tag img_id techraviraj/wordpress:img3
-#sudo docker push techraviraj/wordpress:img3
+  add tag to the image  
+//sudo docker tag img_id techraviraj/wordpress:img3
+
+//sudo docker push techraviraj/wordpress:img3
 
 
 
@@ -26,9 +29,11 @@ add tag to the image
 
 now create the instance using terraform script
 
-# terraform init
-#terraform plan
-#terraform apply
+//terraform init
+
+//terraform plan
+
+//terraform apply
 
 
 
