@@ -3,6 +3,7 @@
 <h1>by using docker-compose.yaml file you can create a wordpress setup using PhpMyAdmin and MySql </h1>
 
 for compose run the cmd
+
 //sudo docker-compose up -d 
 
 and access it from 
