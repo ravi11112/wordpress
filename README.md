@@ -63,18 +63,6 @@ for this login in dockerhub
 
 
 
-
-<h1>now create the instance using terraform script</h1>
-
-//terraform init
-
-//terraform plan
-
-//terraform apply
-
-
-
-
 ![Screenshot from 2023-09-28 23-12-46](https://github.com/ravi11112/wordpress/assets/105406469/8673bb7e-d6d2-462f-9813-ff3f1cadbbf3)
 
 
@@ -114,4 +102,15 @@ for this login in dockerhub
 
 
 ![Screenshot from 2023-09-29 11-54-50](https://github.com/ravi11112/wordpress/assets/105406469/87ff9f84-1cb8-4cc2-869a-fdc987e45c8f)
+
+
+
+
+<h1>now create the instance using terraform script</h1>
+
+//terraform init
+
+//terraform plan
+
+//terraform apply
 
