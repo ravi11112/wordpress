@@ -2,11 +2,11 @@
 
 
 by using this Dockerfile create its image
-#sudo docker build -t wordpress .
+//sudo docker build -t wordpress .
 
 then create a container and expose port 80 
 
-#docker run -d --name my-wordpress-container -p 8080:80 \
+//docker run -d --name my-wordpress-container -p 8080:80 \
   -e WORDPRESS_DB_PASSWORD=root \
   my-wordpress-image
 
@@ -14,7 +14,7 @@ then create a container and expose port 80
 after creating this now push image on dockerhub 
 for this login in dockerhub
 
-# docker login
+//docker login
 add tag to the image  
 #sudo docker tag img_id techraviraj/wordpress:img3
 #sudo docker push techraviraj/wordpress:img3
